@@ -27,10 +27,16 @@ namespace WindowsFormDemoSubway
             Debug.WriteLine("sijfjfei");
         }
 
-        protected string arbMsg()
+        public string arbMsg()
         {
 
             return "hello string";
+        }
+
+        public static string extraArbMsg()
+        {
+
+            return "another one";
         }
 
 

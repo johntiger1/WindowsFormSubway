@@ -74,6 +74,5 @@ c:\users\johnp\onedrive\documents\visual studio 2015\Projects\WindowsFormDemoSub
 c:\users\johnp\onedrive\documents\visual studio 2015\Projects\WindowsFormDemoSubway\WindowsFormDemoSubway\bin\Microsoft.Owin.Security.Twitter.xml
 c:\users\johnp\onedrive\documents\visual studio 2015\Projects\WindowsFormDemoSubway\WindowsFormDemoSubway\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 c:\users\johnp\onedrive\documents\visual studio 2015\Projects\WindowsFormDemoSubway\WindowsFormDemoSubway\bin\Microsoft.Owin.Security.OAuth.xml
-c:\users\johnp\onedrive\documents\visual studio 2015\Projects\WindowsFormDemoSubway\WindowsFormDemoSubway\obj\Debug\WindowsFormDemoSubway.csprojResolveAssemblyReference.cache
 c:\users\johnp\onedrive\documents\visual studio 2015\Projects\WindowsFormDemoSubway\WindowsFormDemoSubway\obj\Debug\WindowsFormDemoSubway.dll
 c:\users\johnp\onedrive\documents\visual studio 2015\Projects\WindowsFormDemoSubway\WindowsFormDemoSubway\obj\Debug\WindowsFormDemoSubway.pdb
